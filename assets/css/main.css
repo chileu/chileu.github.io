@@ -3110,6 +3110,14 @@
 		min-height: 100vh;
 	}
 
+		#intro .mainpic {
+			max-height:350px;
+			max-width:350px;
+			width:auto;
+			height:auto;
+			border-radius:50%;
+		}
+
 		#intro input, #intro select, #intro textarea {
 			color: #ffffff;
 		}
