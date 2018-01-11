@@ -2,7 +2,7 @@
 layout: post
 title:  "This is my first blog post!"
 date:   2017-10-31
-excerpt: "I will probably write a post about how to use jekyll to set up my blog"
+excerpt: "This is what I am going to write about in my blog"
 image: "/images/pic02.jpg"
 ---
 
