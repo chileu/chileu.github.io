@@ -1,5 +1,5 @@
 # Site
-title:              Massively
+title:              The Real Chi Squared
 bio:                'Jekyll version of the Massively theme by HTML5UP'
 description:        "Jekyll version of the Massively theme by HTML5UP"
 locale:             en_US
@@ -41,9 +41,9 @@ instagram:          default
 github:             default
 
 # personal
-location:           Los Angeles, CA
+location:           New York, NY
 phone:              310-318-5555
-email:              info@default.com
+email:              chiying.leung@gmail.com
 
 # Gems
 gems:

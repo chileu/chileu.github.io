@@ -1,10 +1,13 @@
 ---
 layout: post
-title:  "Welcome to Massively: The Jekyll Theme!"
+title:  "This is my first blog post!"
 date:   2017-10-31
-excerpt: "Huge thanks to HTML5 UP for making this awesome template! Let's see what it can do"
+excerpt: "I will probably write a post about how to use jekyll to set up my blog"
 image: "/images/pic02.jpg"
 ---
+
+Here is some sample text for my blog post
+
 
 ## How to Use This Theme
 Just go ahead and read up on [how to install Jekyll](https://jekyllrb.com/). It's not too hard I promise!
